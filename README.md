@@ -30,8 +30,5 @@ This project is a **console-based Library Management System** developed as part 
 4. Enter exact return date manually
 5. Calculate fine based on due date and actual return date
 
-## Author
-**Apurba Jana**
-
 ## Internship
 ShadowFox Internship Program
